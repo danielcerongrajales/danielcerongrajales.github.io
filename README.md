@@ -31,12 +31,13 @@ Tlaxcala, México
 https://eks-solutions.com
 Enterprise of Knowledge In Information Technology Solutions
 business technology consulting whose purpose is to place companies in an ideal state of business
-
+<img src="https://eks-solutions.com/wp-content/uploads/2020/12/Logo_00.png" width="71" height="43" alt="EKS-SOLUTIONS Logo" data-retina_logo_url="" class="fusion-standard-logo">
 
 July. 2018
 Tlaxcala, México 
 https://dicc.com.mx
 Work on consulting projects on Information and Communication Technologies
+<img id="u366_img" alt="" src="images/logo%20pagina-u366.png?crc=465874805" data-image-width="143">
 
 ACADEMIC PRODUCTION AND HONORS
 First place at the national level in the “Latin American Innovation Rally” contest
