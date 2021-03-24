@@ -9,6 +9,9 @@ I work under pressure
 Responsable
 Leadership
 
+Information Technology and Communication Engineering
+Instituto Tecnológico de Apizaco 
+
 <a href="https://danielcerongrajales.github.io/App_bars_bottom"> App bars: bottom </a>
 
 <a href="https://danielcerongrajales.github.io/App_bars_top"> App bars: top </a>
