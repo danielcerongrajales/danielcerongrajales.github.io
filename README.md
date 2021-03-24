@@ -37,7 +37,7 @@ July. 2018
 Tlaxcala, México 
 https://dicc.com.mx
 Work on consulting projects on Information and Communication Technologies
-<img id="u366_img" alt="" src="images/logo%20pagina-u366.png?crc=465874805" data-image-width="143">
+<img id="u366_img"  src="https://dicc.com.mx/images/logo%20pagina-u366.png?crc=465874805" data-image-width="143">
 
 ACADEMIC PRODUCTION AND HONORS
 First place at the national level in the “Latin American Innovation Rally” contest
