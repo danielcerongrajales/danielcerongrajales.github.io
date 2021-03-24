@@ -9,8 +9,35 @@ I work under pressure
 Responsable
 Leadership
 
+2015 – 2021 
+Tlaxcala, México
 Information Technology and Communication Engineering
 Instituto Tecnológico de Apizaco 
+
+Calle Victoria Norte 211, Centro, Huamantla, Tlaxcala
+danielcern.dcg@gmail.com
+2471061283
+
+January-July. 2020
+Tlaxcala, México 
+https://eks-solutions.com
+Enterprise of Knowledge In Information Technology Solutions
+business technology consulting whose purpose is to place companies in an ideal state of business
+
+
+July. 2018
+Tlaxcala, México 
+https://dicc.com.mx
+Work on consulting projects on Information and Communication Technologies
+
+
+First place at the national level in the “Latin American Innovation Rally” contest
+Publication of the article "Implementation of a system capable of facilitating the development of teaching instrumentation" in the Academia Journals Celaya 2018
+Publication of the article "Architecture for the development of intelligent tutorials in the Technological Institute of Apizaco of the National Technology of Mexico" in the Academia Journals Morelia 2019
+Publication of the article "Didactic mediation model applied to engineering subjects in information and communication technologies in the Apizaco technological of the national technology of Mexico" in the Academia journals Tepic 2019
+
+Travel: Europe (France, Ireland and Norway), Asia (China, Japan).
+Sports: Capoeira.
 
 <a href="https://danielcerongrajales.github.io/App_bars_bottom"> App bars: bottom </a>
 
