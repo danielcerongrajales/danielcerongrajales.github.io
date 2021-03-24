@@ -1,12 +1,14 @@
 I am a person with ease of adaptation, Icombine work group and individual . Discipline and availability have been a fundamental key in my work. Working for me means another step to improve personal and professional skills and knowledge.
-• Stress management
-• Teamwork
-• Willingness to work
-• Self-learning
-• Ease of communication
-• I work under pressure
-• Responsable
-• Leadership
+
+Stress management
+Teamwork
+Willingness to work
+Self-learning
+Ease of communication
+I work under pressure
+Responsable
+Leadership
+
 <a href="https://danielcerongrajales.github.io/App_bars_bottom"> App bars: bottom </a>
 
 <a href="https://danielcerongrajales.github.io/App_bars_top"> App bars: top </a>
