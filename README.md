@@ -1,4 +1,10 @@
 I am a person with ease of adaptation, Icombine work group and individual . Discipline and availability have been a fundamental key in my work. Working for me means another step to improve personal and professional skills and knowledge.
+INTERESTS
+Travel: Europe (France, Ireland and Norway), Asia (China, Japan).
+Sports: Capoeira.
+
+COMPETENCES
+Software: Office packaging, management of programming languages ​​in Java, Kotlin, PHP, management of SQLite, Oracle, MySQL databases, use of MVC and MVVM software patterns management in Eclipse, NetBeans, Sublime development environments, Android Studio, Visual Studio, Unity, Unreal Engine, installation and configuration of local and virtual networks, installation and configuration in the management of servers
 
 Stress management
 Teamwork
@@ -9,15 +15,17 @@ I work under pressure
 Responsable
 Leadership
 
+education 
 2015 – 2021 
 Tlaxcala, México
 Information Technology and Communication Engineering
 Instituto Tecnológico de Apizaco 
 
-Calle Victoria Norte 211, Centro, Huamantla, Tlaxcala
+contact
 danielcern.dcg@gmail.com
 2471061283
 
+PROFESSIONAL EXPERIENCE
 January-July. 2020
 Tlaxcala, México 
 https://eks-solutions.com
@@ -30,14 +38,14 @@ Tlaxcala, México
 https://dicc.com.mx
 Work on consulting projects on Information and Communication Technologies
 
-
+ACADEMIC PRODUCTION AND HONORS
 First place at the national level in the “Latin American Innovation Rally” contest
 Publication of the article "Implementation of a system capable of facilitating the development of teaching instrumentation" in the Academia Journals Celaya 2018
 Publication of the article "Architecture for the development of intelligent tutorials in the Technological Institute of Apizaco of the National Technology of Mexico" in the Academia Journals Morelia 2019
 Publication of the article "Didactic mediation model applied to engineering subjects in information and communication technologies in the Apizaco technological of the national technology of Mexico" in the Academia journals Tepic 2019
 
-Travel: Europe (France, Ireland and Norway), Asia (China, Japan).
-Sports: Capoeira.
+
+
 
 <a href="https://danielcerongrajales.github.io/App_bars_bottom"> App bars: bottom </a>
 
