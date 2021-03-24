@@ -1,7 +1,10 @@
 "# danielcerongrajales.github.io-" 
 <a href="https://danielcerongrajales.github.io/App_bars_bottom">Visit W3Schools.com!</a>
+
 <a href="https://danielcerongrajales.github.io/App_bars_top">Visit W3Schools.com!</a>
+
 <a href="https://danielcerongrajales.github.io/Backdrop">Visit W3Schools.com!</a>
+
 <a href="https://danielcerongrajales.github.io/Banners">Visit W3Schools.com!</a>
 <a href="https://danielcerongrajales.github.io/Bottom_navigation">Visit W3Schools.com!</a>
 <a href="https://danielcerongrajales.github.io/Buttons">Visit W3Schools.com!</a>
